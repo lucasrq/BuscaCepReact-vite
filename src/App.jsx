@@ -45,7 +45,6 @@ function App() {
           <main className='Main'>
             <h2>Cep: {cep.cep}</h2>
             <span>Rua:{cep.logradouro}</span>
-            <span>Complemento:{cep.complemento}</span>
             <span>Bairro: {cep.bairro}</span>
             <span>Localidade: {cep.localidade} {cep.uf}</span>
           </main>
