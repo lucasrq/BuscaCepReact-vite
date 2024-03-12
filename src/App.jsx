@@ -26,7 +26,7 @@ function App() {
 
   return (
     <>
-      <div className="container">
+      <div className="container" id=''>
         <h1 className='title'>Buscador Cep</h1>
 
         <div className="containerInput">
